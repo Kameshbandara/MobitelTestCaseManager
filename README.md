@@ -4,7 +4,8 @@
 
 **TestCase Manager** is a powerful tool designed for network device testing. It provides a comprehensive framework for testing the network capabilities of various devices, including dongles, wingle home routers, mobile routers, feature phones, and smartphones. With this tool, you can ensure that these devices perform optimally under different network environments.
 
-![image](https://github.com/dinethviku/MobitelTestCaseManager/assets/72123359/66d6280c-a459-49f4-a65a-b4486b025699)
+![Screenshot 2024-04-26 215911](https://github.com/Kameshbandara/MobitelTestCaseManager/assets/85399866/4a577118-6a32-4ce0-8321-2df40e36cd49)
+
 
 ## Features
 
@@ -26,7 +27,8 @@
 
 - **Figma:** Design and prototype the user interface for a user-friendly experience.
 
-Screenshots
+## Screenshots
+
 
 ![Screenshot 2024-04-26 220355](https://github.com/Kameshbandara/MobitelTestCaseManager/assets/85399866/579f6a92-a535-4c1b-9f28-5d0fb94d06bd)
 
